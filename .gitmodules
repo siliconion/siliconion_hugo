@@ -4,3 +4,7 @@
 [submodule "themes/hugo-theme-basic"]
 	path = themes/hugo-theme-basic
 	url = https://github.com/siegerts/hugo-theme-basic.git
+[submodule "public"]
+	path = public
+	url = git@github.com:siliconion/siliconion.github.io.git
+	branch = master
