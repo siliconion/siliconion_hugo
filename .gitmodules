@@ -1,7 +1,7 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "public"]
+    [submodule "public"]
 	path = public
 	url = git@github.com:siliconion/siliconion.github.io.git
 	branch = master
+[submodule "themes/hugo-theme-basic"]
+	path = themes/hugo-theme-basic
+	url = https://github.com/siegerts/hugo-theme-basic.git
