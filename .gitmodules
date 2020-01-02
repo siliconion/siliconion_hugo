@@ -1,4 +1,4 @@
-    [submodule "public"]
+[submodule "public"]
 	path = public
 	url = git@github.com:siliconion/siliconion.github.io.git
 	branch = master
