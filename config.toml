@@ -29,6 +29,10 @@ twitter = "siliconion"
   name = "blog"
   url = "post/"
 
+[[params.menu]]
+  name = "blog(繁中)"
+  url = "post_zh_tw/"
+
 #[[params.menu]]
 #  name = "post series"
 #  url = "series/"
@@ -49,7 +53,7 @@ name = "mydeployment"
 
 # S3; see https://gocloud.dev/howto/blob/#s3
 # For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
-URL = "s3://siliconion.com?region=us-west-2"
+# URL = "s3://siliconion.com?region=us-west-2"
 
 # [[deployment.matchers]] configure behavior for files that match the Pattern.
 # Samples:
