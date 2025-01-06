@@ -2,7 +2,7 @@ baseURL = "http://siliconion.github.io"
 languageCode = "en-us"
 title = "Siliconion"
 
-theme ="hugo-theme-basic"
+theme ="nostyleplease"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -27,11 +27,11 @@ twitter = "siliconion"
 
 [[params.menu]]
   name = "blog"
-  url = "post/"
+  url = "post"
 
 [[params.menu]]
   name = "blog(繁中)"
-  url = "post_zh_tw/"
+  url = "post_zh_tw"
 
 #[[params.menu]]
 #  name = "post series"

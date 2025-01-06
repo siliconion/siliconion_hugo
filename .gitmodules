@@ -5,3 +5,9 @@
 [submodule "themes/hugo-theme-basic"]
 	path = themes/hugo-theme-basic
 	url = https://github.com/siegerts/hugo-theme-basic.git
+[submodule "themes/hugo-simple"]
+	path = themes/hugo-simple
+	url = https://github.com/maolonglong/hugo-simple.git
+[submodule "themes/nostyleplease"]
+	path = themes/nostyleplease
+	url = git@github.com:hanwenguo/hugo-theme-nostyleplease.git

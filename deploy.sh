@@ -10,7 +10,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Submodule doesn't work, use another directory
 cd ../siliconion.github.io
-cp -r ../siliconion/public/* .
+cp -r ../siliconion_hugo/public/* .
 
 # Add changes to git.
 git add .
